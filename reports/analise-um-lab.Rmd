@@ -153,23 +153,13 @@ iat %>%
 
 ```
 
---- 
+--- Em média, as mulheres que participaram do experimento tiveram uma associação implícita (medida pelo IAT) com a matemárica **positiva/negativa** e **fraca/média/forte** (média XXX, desv. padrão YYY, N = ZZZ). Homens tiveram uma associação **positiva/negativa** com a matemática, portanto **maior/menor** que a das mulheres (média , desv. padrão, N = ). Houve portanto uma **grande/considerável/pequena** diferença entre homens e mulheres (diferença das médias XXXX, 95% CI [CCC, DDD]). A partir desta amostra, estimamos que...
+
 
 ### Conclusão
-Em média, as mulheres que participaram do experimento tiveram uma associação implícita (medida pelo IAT) com a matemárica **negativa** e **forte** (média 0.5703113, desv. padrão 0.4229594, N = 65). Homens tiveram uma associação **negativa** com a matemática, portanto **menor** que a das mulheres (média = 0.3997566, desv. padrão = 0.5162869, N = 48). Houve portanto uma **pequena** diferença entre homens e mulheres (diferença das médias -0.1705546, 95% CI [-0.342834, 0.01478192]). A partir desta amostra, estimamos que...
+#### Dataset escolhido: brasilia.csv
+    
+    Em média, as mulheres que participaram do experimento tiveram uma associação implícita (medida pelo IAT) com a matemárica **negativa** e **forte** (média 0.5703113, desv. padrão 0.4229594, N = 65). Homens tiveram uma associação **negativa** com a matemática, portanto **menor** que a das mulheres (média = 0.3997566, desv. padrão = 0.5162869, N = 48). Houve portanto uma **pequena** diferença entre homens e mulheres (diferença das médias -0.1705546, 95% CI [-0.3500507, 0.01227288]). A partir desta amostra, estimamos que...
 
-* mulheres têm uma associação negativa consideravelmente mais forte, com uma diferença que provavelmente está entre -0.342834, 0.01478192 ponto na escala IAT, HÁ UMA DIFERENÇA PEQUENA.
-
-
-#### Um exemplo 
-#### Dataset antigo
-Se a diferença entre homens e mulheres fosse (diferença das médias -0.2430539, 95% CI [-0.4315714, -0.07379393]). A partir desta amostra, estimamos que...
-* mulheres têm uma associação negativa consideravelmente mais forte, com uma diferença que provavelmente está entre -0.4315714, -0.07379393 ponto na escala IAT, o que não podemos concluir se é uma diferença grande ou pequena, pois 
-o valor que está dentro desse intervalo, pode tanto ser muito próximo a zero, tanto distante de zero no outro ponto.
---- 
-*Exemplos de possíveis conclusões para completar*
-
-  * mulheres têm uma associação negativa consideravelmente mais forte, com uma diferença que provavelmente está entre 0.6 e 1.0 ponto na escala IAT, o suficiente para diferenciar uma associação neutra de uma muito forte contra a matemática.
-  * mulheres têm uma associação negativa mais forte, porém não é claro se essa diferença é grande, moderada ou pequena. É necessário coletar mais dados para determinar se a diferença é relevante ou negligenciável. 
-  * mulheres podem ter um associação negativa forte, pode não haver diferença entre sexos ou homens podem ter atitudes negativas um pouco mais fortes ou moderadamente mais fortes. 
-  * pode não haver uma diferença entre sexos, ou se ela existir, ela provavelmente é pequena em qualquer das direções. 
+    Mulheres têm uma associação **negativa** consideravelmente mais **forte**, com uma diferença que provavelmente está entre -0.3500507 e 0.01227288 ponto na escala IAT. 
+    Potanto, pela diferença entre as médias de IAT temos que a diferença de -0.17 é relativamente pequena, no entanto, é enviesado concluir para o intervalo de confiança se há realmente uma diferença e se ela é média ou pequena, pois os valores concentrados dentro deste intervalo, podem tanto serem muito próximos a zero (0.01, IAT small), inclusive igual e não ter diferença (pois o zero encontra-se dentro do intervalo), quanto distantes de zero no outro ponto (-0.35, IAT medium).
